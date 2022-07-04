@@ -1,0 +1,42 @@
+{
+  "name": "AVIS Araç Kiralama",
+  "short_name": "AVIS",
+  "description": "AVIS Progressive Web App",
+  "background_color": "#FFFFFF",
+  "theme_color": "#B31217",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "/images/pwa/512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/images/pwa/512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/pwa/256-maskable.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/pwa/128-maskable.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/pwa/64-maskable.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/pwa/32-maskable.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+    
+  ]
+}
